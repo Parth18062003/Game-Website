@@ -47,7 +47,7 @@ const Header = () => {
           href="/"
           className="font-black mx-6 md:mx-16 text-gradient text-[36px]"
         >
-          MDD
+          MBS
         </Link>
         <ul className="list-none xl:flex hidden justify-center items-center flex-1">
           {navLinks.map((nav, index) => (
